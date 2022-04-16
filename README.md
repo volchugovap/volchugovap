@@ -28,7 +28,7 @@
  
  - :computer:I am a beginner programmer
  - :fountain_pen:I like to whrite code
- - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ToniVolchugov)
+ - :mailbox:How to reach me: [![Vk Badge](https://img.shields.io/badge/-Vk-blue?style=flat&logo=Vk&logoColor=white)](https://vk.com/aby.bandit_2)
 
 ---
 
