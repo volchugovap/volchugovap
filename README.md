@@ -20,7 +20,7 @@
 
  :man_technologist: About Me :
  
- - :computer:I am a beginner programmer
+ - :computer:I am a  programmer
  - :fountain_pen:I like to write code
  - :mailbox:How to reach me: [![Vk Badge](https://img.shields.io/badge/-Vk-blue?style=flat&logo=Vk&logoColor=white)](https://vk.com/aby.bandit_2)
 
