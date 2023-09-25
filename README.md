@@ -7,8 +7,6 @@
   </h1>
 </div>
 
-===
-
  :man_technologist: About Me :
  
  - :computer:I am a  programmer
