@@ -16,9 +16,8 @@
 - 👨‍💻 Front-end Enthusiast & Volunteer
 
 ### 🤝 Connect with me:
-[![Vk Badge](https://img.shields.io/badge/-Vk-blue?style=flat&logo=Vk&logoColor=white)](https://vk.com/happen_gaggen)
 
----
+[![Vk Badge](https://img.shields.io/badge/-Vk-blue?style=flat&logo=Vk&logoColor=white)](https://vk.com/happen_gaggen)
 
 ### 💻 Tech Stack:
 
@@ -35,6 +34,4 @@
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-
----
 
