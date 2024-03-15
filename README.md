@@ -17,7 +17,8 @@
 
 ### 🤝 Connect with me:
 
-[![Vk Badge](https://img.shields.io/badge/-Vk-blue?style=flat&logo=Vk&logoColor=white)](https://vk.com/happen_gaggen)
+[<img alt="Anton Klimov | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
+
 
 ### 💻 Tech Stack:
 
@@ -35,3 +36,6 @@
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
+
+
+[vk]: https://vk.com/happen_gaggen
