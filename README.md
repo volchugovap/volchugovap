@@ -18,6 +18,7 @@
 ### 🤝 Connect with me:
 
 [<img alt="Anton Klimov | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
+[<img alt="Dima Hercules | VK" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white]" />][telegram]
 
 
 ### 💻 Tech Stack:
@@ -39,3 +40,4 @@
 
 
 [vk]: https://vk.com/happen_gaggen
+[telegram]: t.me/ne_nado_dyadya
