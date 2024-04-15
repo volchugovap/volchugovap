@@ -40,4 +40,4 @@
 
 
 [vk]: https://vk.com/happen_gaggen
-[telegram]: https://t.me/ne_nado_dyadya
+[telegram]: https://t.me/apevol
