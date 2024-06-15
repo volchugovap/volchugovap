@@ -12,7 +12,7 @@
  ## I'm a Developer!
 
 - 📍 I’m From Voronezh
-- 💻 1 Year Experience in Front-end Development
+- 💻 2 Year Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast
 
 ### 🤝 Connect with me:
