@@ -9,11 +9,11 @@
 
 
 
- ## I'm a Developer!
+ ## I'm a Frontend Developer!
 
 - 📍 I’m From Voronezh
-- 💻 2 Year Experience in Front-end Development
-- 👨‍💻 Front-end Enthusiast
+- 💻 2 Year Experience in Frontend Development
+- 👨‍💻 Frontend Enthusiast
 
 ### 🤝 Connect with me:
 
