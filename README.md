@@ -40,8 +40,8 @@
 ### 🛠 Tools:
 
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
-<img alt="gitlab" src="https://img.shields.io/badge/gitlab-fc6d25.svg?style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
-<img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
+[<img alt="gitlab" src="https://img.shields.io/badge/gitlab-fc6d25.svg?style=for-the-badge&logo=gitlab&logoColor=fff" />][gitlab]&nbsp;
+[<img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />][github]&nbsp;
 <img alt="yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />&nbsp;
 <img alt="yarn" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" />&nbsp;
 <img alt="vscode" src="https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
@@ -51,4 +51,6 @@
 
 [vk]: https://vk.com/happen_gaggen
 [telegram]: https://t.me/volchugovap
-[email]: https://
+[email]: https://toni.volchugov2@gmail.com
+[gitlab]:https://gitlab.evkid.ru/volchugovap
+[github]:https://github.com/volchugovap
