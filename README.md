@@ -35,7 +35,7 @@
 <img alt="axios" src="https://img.shields.io/badge/axios-5a29e4.svg?style=for-the-badge&logo=axios&logoColor=fff" />&nbsp;
 <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
 <img alt="jest" src="https://img.shields.io/badge/jest-ac5561.svg?style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
-<img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
+
 
 ### 🛠 Tools:
 
