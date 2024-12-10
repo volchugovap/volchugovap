@@ -12,7 +12,7 @@
  ## I'm a Frontend Developer!
 
 - 📍 I’m From Voronezh
-- 💻 2 Year Experience in Frontend Development
+- 💻 3 Year Experience in Frontend Development
 - 👨‍💻 Frontend Enthusiast
 
 ### 🤝 Connect with me:
