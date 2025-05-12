@@ -11,8 +11,8 @@
 
  ## I'm a Frontend Developer!
 
-- 📍 I’m From Voronezh
-- 💻 3 Year Experience in Frontend Development
+- 📍 I’m From Orel, Russia
+- 💻 4 Year Experience in Frontend Development
 - 👨‍💻 Frontend Enthusiast
 
 ### 🤝 Connect with me:
