@@ -13,7 +13,7 @@
 
 - 📍 I’m From Orel, Russia
 - 💻 4 Year Experience in Frontend Development
-- 👨‍💻 Frontend Enthusiast
+
 
 ### 🤝 Connect with me:
 
